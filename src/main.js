@@ -1,7 +1,6 @@
 import monkeypatch from 'monkeypatch';
-import http from 'http';
-import https from 'https';
-import buffer from 'buffer';
+import http from 'http-browserify';
+import https from 'https-browserify';
 import chalk from 'chalk';
 /**
  *
